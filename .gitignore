@@ -16,7 +16,6 @@ _site/
 *.logs
 .idea/
 .eclipse
-*.log
 
 
 # Package Files #
@@ -28,9 +27,9 @@ _site/
 *.tar.gz
 *.rar
 
+
 ### macOS ###
 # General
 .DS_Store
 .AppleDouble
 .LSOverride
-
